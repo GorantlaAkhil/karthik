@@ -90,7 +90,8 @@ commit;
 ### ====== Importing and Running the Project Through Eclipse EE ===========
 Step 0: Open Eclipse Enterprise Edition. [Install if not available]
 
-Step 1: Import Project
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/trainsrajraja/Train-Ticket-Reservation-System.git``` > Next > Select Master Branch > Next > Finish
+
 Step 2: Right Click On Project > Build Path > Configure Build Path > Libraries > Remove And Update Any Libraries With Red Mark > Finish
 
 Step 3: [Only if Tomcat v8.0 is not Configured in Eclipse]: Right Click On Project > Run As > Run On Server > Select Tomcat v8.0 > (Select Tomcat V8.0 Installation Location If Asked) Next > Add <project-name> > Finish
@@ -110,31 +111,46 @@ Step 8: Default Username And Password For User Is "trains" And "trains"
 ### The Screenshots of some of the  webPages of this project are Here:
 
 1. Login Page
+<img src="https://github.com/trainsrajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/login.png" width="100%">
 
 
 2. Register New User
+<img src="https://github.com/trainsrajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/registeruser.png" width="100%">
 
 
 3. View Profile
+<img src="https://github.com/trainsrajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/viewprofile.png" width="100%">
 
 
 4. View and Book Trains
+<img src="https://github.com/trainsrajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/Search.png" width="100%">
 
 
 5. Add Trains By Admin
+<img src="https://github.com/trainsrajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/addtrains.png" width="100%">
+
 
 6. Change Password
+<img src="https://github.com/trainsrajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/passwordchange.png" width="100%">
 
 7. Train Fare Enquiry
+<img src="https://github.com/trainsrajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/fareenquiry.png" width="100%">
 
 8. Train Details
+<img src="https://github.com/trainsrajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/Availability.png" width= "100%">
 
 
 9. User Home
+<img src="https://github.com/trainsrajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/userhome.png" width="100%">
 
 
 10. Book Trains Now
+<img src="https://github.com/trainsrajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/booknow.png" width="100%">
 
 11. Train Ticket Book
+<img src="https://github.com/trainsrajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/TicketBook.png" width="100%">
 
 
+#### "Suggestions and project Improvement are Invited"
+#### trains Raj
+##### Project Leader
